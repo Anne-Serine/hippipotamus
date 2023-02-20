@@ -1,2 +1,2 @@
 # hippipotamus
-juming on a trampoline
+jumping on a trampoline
