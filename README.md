@@ -1,2 +1,2 @@
 # hippopotamus
-jumping on a trampoline
+jumping on a trampoline, up and down
